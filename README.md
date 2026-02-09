@@ -44,6 +44,7 @@ Unlike existing systems, this solution emphasizes resource fairness and proactiv
 
 
 
+
 **🔧 Hardware Components (IoT Prototype)**
 
 Pressure Sensor – measures pipeline pressure
